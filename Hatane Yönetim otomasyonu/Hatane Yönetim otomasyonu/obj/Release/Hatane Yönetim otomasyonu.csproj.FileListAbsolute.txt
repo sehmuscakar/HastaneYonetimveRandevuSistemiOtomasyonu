@@ -1,0 +1,18 @@
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane Yönetim otomasyonu.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmbilgidüzenle.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmbranspaneli.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmdoktorbilgidüzenle.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmdoktordetay.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmdoktorgiris.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmdoktorpaneli.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmduyurular.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmgirisler.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmhastadetay.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmhastagirişi.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmhastakayıt.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmrandevulistesi.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmsekreterdetay.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.frmsekretergiris.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane_Yönetim_otomasyonu.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane Yönetim otomasyonu.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Hatane Yönetim otomasyonu\Hatane Yönetim otomasyonu\obj\Release\Hatane Yönetim otomasyonu.csproj.CoreCompileInputs.cache
